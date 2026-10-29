@@ -1,0 +1,21 @@
+{
+  "trapChannelId": "YOUR_TRAP_CHANNEL_ID_HERE",
+  "timeoutHours": 6,
+  "ignoreAdmins": false,
+  "sendDMOnTimeout": true,
+  "timeoutNotice": "You have been timed out for sending multiple messages in this channel. Our spam protection system detected your messages as potential spam. This timeout may have been triggered by repeated messages or by a message sent accidentally. If you believe this timeout was issued by mistake, please contact the staff team for assistance.",
+  "noticeAutoDeleteHours": 6,
+
+  "embed": {
+    "color": "#ff1744",
+    "title": "👑 DO NOT SEND ANY MESSAGES IN THIS CHANNEL!",
+    "description": "`If you send a message here, you will instantly get a 6-hour timeout. This channel is a trap to automatically catch and mute hacked accounts that are sending scam links or images.`",
+    "footerText": "NOVYRA DEFENDER • AUTOMATED SECURITY SYSTEM",
+    "localGifPath": "./assets/warning.gif"
+  },
+
+  "dmMessage": {
+    "title": "⚠️ You have been timed out in Novyra Roleplay",
+    "description": "You have been timed out for sending multiple messages in this channel. Our spam protection system detected your messages as potential spam. This timeout may have been triggered by repeated messages or by a message sent accidentally. If you believe this timeout was issued by mistake, please contact the staff team for assistance."
+  }
+}

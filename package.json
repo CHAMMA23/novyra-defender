@@ -1,0 +1,22 @@
+{
+  "name": "novyra-defender",
+  "version": "1.0.0",
+  "description": "Honeypot Trap & Anti-Scam Security Bot for Novyra Roleplay",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord-bot",
+    "honeypot",
+    "anti-scam",
+    "security",
+    "novyra"
+  ],
+  "author": "Team Novyra",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
